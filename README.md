@@ -18,6 +18,10 @@ Tested with Python 3.6, PyTorch 0.4.1.
 
 Install [PyTorch](https://pytorch.org/) >= 0.4.1
 
+```
+conda install pytorch=0.4.1 cuda90 -c pytorch
+```
+
 Install python-igraph by:
 
     pip install python-igraph
