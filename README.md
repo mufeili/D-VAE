@@ -14,12 +14,10 @@ For more information, please check our paper:
 Installation
 ------------
 
-Tested with Python 3.6, PyTorch 0.4.1.
-
-Install [PyTorch](https://pytorch.org/) >= 0.4.1
+Tested with Python 3.6.
 
 ```
-conda install pytorch=0.4.1 cuda90 -c pytorch
+conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
 ```
 
 Install python-igraph by:
