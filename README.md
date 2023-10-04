@@ -17,7 +17,7 @@ Installation
 Tested with Python 3.6.
 
 ```
-conda install pytorch==1.1.0 torchvision==0.3.0 cudatoolkit=10.0 -c pytorch
+conda install pytorch==1.7.0 torchvision==0.8.0 torchaudio==0.7.0 cudatoolkit=11.0 -c pytorch
 ```
 
 Install python-igraph by:
